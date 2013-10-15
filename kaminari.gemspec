@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'activesupport', ['>= 4.0.0']
   s.add_dependency 'actionpack', ['>= 4.0.0']
 
-  s.add_development_dependency 'bundler', ['>= 1.0.0']
+  s.add_development_dependency 'bundler', ['~> 3.0.0']
   s.add_development_dependency 'rake', ['>= 0']
   s.add_development_dependency 'sqlite3', ['>= 0']
   s.add_development_dependency 'tzinfo', ['>= 0']
